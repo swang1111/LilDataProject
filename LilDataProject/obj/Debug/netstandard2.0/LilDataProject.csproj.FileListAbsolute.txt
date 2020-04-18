@@ -1,0 +1,14 @@
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.csprojAssemblyReference.cache
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.csproj.CoreCompileInputs.cache
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.AssemblyInfoInputs.cache
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.AssemblyInfo.cs
+/Users/shannon/Projects/LilDataProject/LilDataProject/bin/Debug/netstandard2.0/LilDataProject.deps.json
+/Users/shannon/Projects/LilDataProject/LilDataProject/bin/Debug/netstandard2.0/LilDataProject.dll
+/Users/shannon/Projects/LilDataProject/LilDataProject/bin/Debug/netstandard2.0/ref/LilDataProject.dll
+/Users/shannon/Projects/LilDataProject/LilDataProject/bin/Debug/netstandard2.0/LilDataProject.pdb
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.dll
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/ref/LilDataProject.dll
+/Users/shannon/Projects/LilDataProject/LilDataProject/obj/Debug/netstandard2.0/LilDataProject.pdb
